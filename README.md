@@ -1,5 +1,8 @@
-# hypercash price gnome ticket 
+# hypercash gnome price ticker
 
-Gnome 3 desktop ticker for hypercash price with Python and argos. Rename to hypercash.1r.60s.py and put in ~/.config/argos
+Get hypercash price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/hypercash-price-gnome-ticket/](https://codesharedot.github.io/hypercash-price-gnome-ticket/)
 
-https://pythonbasics.org
+hypercash price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to hypercash.1r60s.py and put in ~/.config/argos
